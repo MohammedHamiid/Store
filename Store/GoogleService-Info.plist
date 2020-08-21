@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544712263802-7d1d0vocggj2a32pm3tmab2c6ql1cli8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544712263802-7d1d0vocggj2a32pm3tmab2c6ql1cli8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVw4kGp67dQsLeVnZlqTGD14U2ZVS4kow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544712263802</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MohammedHamid.Store</string>
+	<key>PROJECT_ID</key>
+	<string>store-825b6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>store-825b6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544712263802:ios:3ce727c8c5bd8cf1cc53c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://store-825b6.firebaseio.com</string>
+</dict>
+</plist>
